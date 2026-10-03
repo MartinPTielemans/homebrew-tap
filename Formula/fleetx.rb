@@ -1,9 +1,9 @@
 class Fleetx < Formula
   desc "Keep every machine you run T3 Code on equivalent"
   homepage "https://github.com/MartinPTielemans/fleetx"
-  url "https://github.com/MartinPTielemans/fleetx/releases/download/v0.2.0/fleetx.mjs"
-  version "0.2.0"
-  sha256 "a39db1a258de2f565a29f05188f50290110005065f1e552f7aa4a6003948ce2d"
+  url "https://github.com/MartinPTielemans/fleetx/releases/download/v0.3.0/fleetx.mjs"
+  version "0.3.0"
+  sha256 "8f3cfd0a93473a088ca9bac345cf4db66f6377ae8796680006dc199aac7a784a"
   license "MIT"
 
   depends_on "node"
